@@ -25,8 +25,8 @@ SET time_zone = "+00:00";
 --
 -- Estrutura da tabela `automovel`
 --
-DROP DATABASE IF EXISTS devcar;
-create database devcar;
+--DROP DATABASE IF EXISTS devcar;
+--create database devcar;
 use devcar;
 CREATE TABLE `automovel` (
   `id` bigint(20) NOT NULL,
